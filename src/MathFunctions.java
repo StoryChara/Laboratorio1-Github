@@ -1,4 +1,8 @@
 public class MathFunctions {
+
+    public static int subtractionNumber(int  numberA, int numberB) {
+        return numberA - numberB;
+    }
 	
 	  public static int squaring(int a) {
 		  return a*a;
