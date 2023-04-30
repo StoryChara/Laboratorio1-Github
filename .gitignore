@@ -35,5 +35,5 @@ bin/
 .idea/workspace.xml
 
 ### Additional Files ###
-Laboratorio1-Github.iml
-WrongFile.txt
+.Laboratorio1-Github.iml
+.WrongFile.txt
